@@ -60,25 +60,28 @@ Using the power budget equation and the parameters below, determine the attenuat
      - Eye diagram  
 
 2. Set the fiber length to **125% of the calculated pre-lab value** and repeat the simulation and data recording.  
+## Tabulation for 2.5GB & 10GB   
 
----
+<img width="1483" height="1055" alt="WhatsApp Image 2026-07-25 at 10 11 06 AM" src="https://github.com/user-attachments/assets/4de911c9-d035-4693-9bed-a1bc408b204d" />
+
+
+
+## LOW NOISE FOR 2.5GB
+<img width="987" height="756" alt="image" src="https://github.com/user-attachments/assets/afb95916-0322-40e9-85d0-e92148d8714a" />
+## High Noise
+
+<img width="986" height="752" alt="image" src="https://github.com/user-attachments/assets/ea76766a-5d83-41a0-9824-3da32b77b9fc" />
+
+## LOW NOISE FOR 10GB
+
+<img width="995" height="762" alt="image" src="https://github.com/user-attachments/assets/efc21a37-4b95-4d13-9821-dac993390080" />
+
+## High Noise
+
+<img width="987" height="759" alt="image" src="https://github.com/user-attachments/assets/045cacdb-02f6-4047-a426-1902bfa7911c" />
 
 ## Analysis and Report
 Compare simulation results with pre-lab calculations and record observations.  
 
-Your report should contain:
-- **Cover Page**
-  - Title of the lab  
-  - Course name and number  
-  - Your name  
-
-- **Pre-lab Calculations**  
-
-- **Screenshots** of layout and results (including eye diagrams)  
-
-- **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
-  
-
-- **Written Summary** of observations and explanations of differences.  
+## Result
+Thus the attenuation-limited fiber length based on the power budget equation is successfully simulated and verified.
